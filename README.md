@@ -1,3 +1,3 @@
 # hello-world
 learning progrma
-initasl attempt programming with github
+initial attempt programming with github
